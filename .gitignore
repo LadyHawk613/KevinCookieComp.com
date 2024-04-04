@@ -1,0 +1,5 @@
+# use '#' for comments
+# use '*' as a wildcard
+#
+# ignore all .txt files
+*.txt
